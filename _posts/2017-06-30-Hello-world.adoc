@@ -1,0 +1,11 @@
+= Hello, world!
+ 
+Hey, this is a test. I wonder how this will look...
+
+:published_at: 2017-06-30
+
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
