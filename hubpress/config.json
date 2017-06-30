@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "ichi"
+    "name": "roon"
   },
   "urls": {
     "site": "https://danieloran.github.io",
     "hubpress": "https://danieloran.github.io",
-    "theme": "//danieloran.github.io/themes/ghostium",
+    "theme": "//danieloran.github.io/themes/ichi",
     "images": "https://danieloran.github.io/images"
   },
   "initialisationConfigComponent": {
