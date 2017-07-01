@@ -11,7 +11,7 @@
   "urls": {
     "site": "https://danieloran.github.io",
     "hubpress": "https://danieloran.github.io",
-    "theme": "//danieloran.github.io/themes/uno",
+    "theme": "//danieloran.github.io/themes/uno-zen",
     "images": "https://danieloran.github.io/images"
   },
   "initialisationConfigComponent": {
