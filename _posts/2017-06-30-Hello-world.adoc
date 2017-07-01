@@ -1,5 +1,5 @@
 = Hello, world!
- 
+:hp-image: ocean.jpg 
 Hey, this is a test. I wonder how this will look...
 
 :published_at: 2017-06-30
