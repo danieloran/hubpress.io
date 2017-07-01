@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "uno"
+    "name": "uno-zen"
   },
   "urls": {
     "site": "https://danieloran.github.io",
     "hubpress": "https://danieloran.github.io",
-    "theme": "//danieloran.github.io/themes/saga",
+    "theme": "//danieloran.github.io/themes/uno",
     "images": "https://danieloran.github.io/images"
   },
   "initialisationConfigComponent": {
